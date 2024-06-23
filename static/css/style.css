@@ -112,7 +112,7 @@ body {
 
 /* Specific styles for the first about area */
 .black_bg1 {
-  background-color: #0a1835; /* Dark blue background */
+  background-color: rgb(10, 24, 53); /* Dark blue background */
 }
 
 /* Specific styles for the second about area */
