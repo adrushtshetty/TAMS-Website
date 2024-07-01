@@ -1157,41 +1157,41 @@ h3 {
 }
 
 /* line 32, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
-.header-area .main-header-area .logo_png-img {
+.header-area .main-header-area .WEBSITE_BANNER_png-img {
   text-align: center;
 }
 
 @media (max-width: 767px) {
   /* line 32, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo_png-img {
+  .header-area .main-header-area .WEBSITE_BANNER_png-img {
     text-align: left;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 32, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo_png-img {
+  .header-area .main-header-area .WEBSITE_BANNER_png-img {
     text-align: left;
   }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 32, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo_png-img {
+  .header-area .main-header-area .WEBSITE_BANNER_png-img {
     text-align: left;
   }
 }
 
 @media (max-width: 767px) {
   /* line 46, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo_png-img img {
+  .header-area .main-header-area .WEBSITE_BANNER_png-img-img {
     width: 70px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 46, ../../Arafath/CL/December/236. Event-02/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo_png-img img {
+  .header-area .main-header-area .WEBSITE_BANNER_png-img-img {
     width: 70px;
   }
 }
