@@ -5881,6 +5881,189 @@ h6 {
   }
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.footer {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.footer_top {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.copy-right_text {
+  position: relative;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-banner-container {
+  width: 100%;
+  line-height: 0;
+}
+
+.footer-banner-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.copyright-content {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #fff; /* Adjust color as needed */
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  padding: 10px;
+}
+
+.copy_right {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .copyright-content {
+      position: relative;
+      background-color: #000; /* Solid background for mobile */
+  }
+}
+
+
+
+.footer_top {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.footer-logo-container {
+  width: 100%;
+  max-width: 300px; /* Adjust as needed */
+  margin: 0 auto;
+  line-height: 0;
+}
+
+.footer-logo-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.footer-content {
+  text-align: center;
+  color: #fff; /* Adjust color as needed */
+  padding: 10px;
+}
+
+.gdlr-core-divider-item {
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .footer-logo-container {
+      max-width: 200px; /* Smaller size for mobile */
+  }
+  
+  .footer-content {
+      margin-top: 10px;
+  }
+}
+
+
+
+
+
+.register-btn {
+  display: inline-block;
+  background-color: #ff5e13; /* Adjust color as needed */
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px 0;
+  transition: background-color 0.3s ease;
+}
+
+.register-btn:hover {
+  background-color: #e64d00; /* Darker shade for hover effect */
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .register-btn {
+      display: block;
+      width: 80%;
+      margin: 20px auto;
+  }
+}
+
+
+
+
+.header-register-btn {
+  display: inline-block;
+  background-color: #ff5e13;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.header-register-btn:hover {
+  background-color: #e64d00;
+  color: #fff;
+}
+
+@media (max-width: 991px) {
+  .header-register-btn {
+      font-size: 12px;
+      padding: 5px 10px;
+  }
+
+  .mobile_menu {
+      margin-left: auto;
+  }
+
+  .logo_png img {
+      max-width: 80px;
+  }
+}
+
+@media (max-width: 575px) {
+  .header-register-btn {
+      font-size: 10px;
+      padding: 4px 8px;
+  }
+
+  .logo_png img {
+      max-width: 60px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   /* line 150, ../../Arafath/CL/December/236. Event-02/HTML/scss/_blog_part.scss */
   .blog_part .single-home-blog .card ul li {
