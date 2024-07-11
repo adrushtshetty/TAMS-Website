@@ -2186,8 +2186,8 @@ h3 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  padding-bottom: 142px;
-  padding-top: 250px;
+  padding-bottom: 80px;
+  padding-top: 80px;
 }
 
 @media (max-width: 767px) {
@@ -2747,7 +2747,7 @@ h3 {
 /* line 36, ../../Arafath/CL/December/236. Event-02/HTML/scss/_footer.scss */
 .footer .copy-right_text .copy_right {
   font-size: 14px;
-  color: #ffffff;
+  color: #fffcfc;
   margin-bottom: 0;
   font-weight: 400;
   font-family: "Muli", sans-serif;
