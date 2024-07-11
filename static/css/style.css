@@ -2186,8 +2186,8 @@ h3 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  padding-bottom: 80px;
-  padding-top: 80px;
+  padding-bottom: 300px;
+  padding-top: 180px;
 }
 
 @media (max-width: 767px) {
