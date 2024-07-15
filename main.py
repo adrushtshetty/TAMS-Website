@@ -8,7 +8,7 @@ def home_page():
 
 @app.route('/about')
 def about_page():
-    return render_template("venue.html")
+    return render_template("history.html")
 
 @app.route('/aboutPESU')
 def about_PESU_page():
@@ -16,7 +16,7 @@ def about_PESU_page():
 
 @app.route('/events')
 def about_events_page():
-    return render_template("Program.html")
+    return render_template("events.html")
 
 if __name__ == '__main__':
     app.run(debug=True)
